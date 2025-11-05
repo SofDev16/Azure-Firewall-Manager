@@ -1,6 +1,4 @@
-# Azure-Firewall-Manager
-
-## Diagram
+# Diagram
 
 <img width="900" height="596" alt="Screen Shot 2025-10-30 at 3 06 19 PM" src="https://github.com/user-attachments/assets/b885344f-67c8-44fd-89ab-9bfa17bcc75f" />
 
